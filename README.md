@@ -7,7 +7,7 @@ Freelance Full Stack Web Developer | Rapture Robotics Team Data Scientist
 I like learning stuff
 
 * 🌍  I'm based in Edirne
-* 🖥️  See my portfolio at [profile.bayramdev.me](http://profile.bayramdev.me)
+* 🖥️  See my portfolio at [portfolio.bayramdev.me](http://portfolio.bayramdev.me)
 * ✉️  You can contact me at [bayramkazik@pm.me](mailto:bayramkazik@pm.me)
 * 🚀  I'm currently working on [Rapture Robotics](http://rapturerobotics.com)
 * ⚡  I like learning new stuff and keeping up with the news about tech, artificial intelligence and space.
